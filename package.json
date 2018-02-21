@@ -1,0 +1,11 @@
+{
+	"name": "BenesBot",
+	"version": "0.1.",
+	"description": "Discord Bot by Cormac",
+	"main": "bot.js",
+	"author": "Cormac",
+	"dependencies": {
+		"discord.io": "github:woor/discord.io#gateway_v6",
+		"winston": "^2.4.0"
+	}
+}
